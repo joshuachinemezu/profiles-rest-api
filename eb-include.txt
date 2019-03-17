@@ -1,0 +1,6 @@
+.ebextensions/
+profiles_api/
+profiles_project/
+manage.py
+static/
+requirements.txt
